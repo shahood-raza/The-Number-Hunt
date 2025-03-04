@@ -56,7 +56,5 @@ This project is built using **HTML, CSS, and JavaScript**, with a focus on **DOM
 ## 🎭 Play and Have Fun!  
 If you find this project interesting, feel free to contribute, suggest improvements, or simply enjoy the game! 🚀  
 
-🔗 **Let's Connect!**  
-[LinkedIn Profile](www.linkedin.com/in/shahood-raza)   
 
 

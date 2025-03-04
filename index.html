@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Number Hunt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h2>The Number Hunt</h2>
+        <p>Guess a number between 1 and 100</p>
+        <form class="form">
+            <input type="text" id="guess" placeholder="Enter your guess">
+            <input type="submit" value="Check" id="submit">
+        </form>
+        <div class="result">
+            <p>Previous attempts: <span id="PreviousGuesses"></span></p>
+            <p>Remaining attempts: <span id="remaining"></span></p>
+            <p class="lessorgreater"></p>
+        </div>
+    </div>
+</body>
+<script src="script.js"></script>
+</html>
+

@@ -7,7 +7,6 @@ let lessorgreater = document.querySelector(".lessorgreater");
 let startOver = document.createElement("div"); 
 document.querySelector(".container").appendChild(startOver);
 
-console.log("Random Number:", randnum);
 
 let prevguesses = [];
 let attempt = 0;
